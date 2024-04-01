@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           Pingtao-GPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          教程网址：https://ben110.notion.site/Pingtao-xyz-3fe3aa40dc3d4b208f40387f5352c0f5
+          你要相信光！
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
