@@ -360,7 +360,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "请直接发问。或者有不懂的可以先看下教程：https://ben110.notion.site/Pingtao-xyz-3fe3aa40dc3d4b208f40387f5352c0f5?pvs=4",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
