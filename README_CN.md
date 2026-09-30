@@ -3,7 +3,7 @@
 <a href='#企业版'>
   <img src="./docs/images/ent.svg" alt="icon"/>
 </a>
-
+AIzaSyCXTM3IT7VfUP75tFj48G3qjhEw0y
 <h1 align="center">NextChat</h1>
 
 一键免费部署你的私人 ChatGPT 网页应用，支持 Claude, GPT4 & Gemini Pro 模型。
